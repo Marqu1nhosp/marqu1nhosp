@@ -1,6 +1,6 @@
 ## Olá, meu nome é Marcos Porto 👋
 
-Estou cursando o 6° semestre de Sistemas de Informação, já atuei como programador na UESB, atividades de desenvolvimento, manutenção e suporte de sistemas, em PHP, com framework twig e com banco de dados MySQL e PostgreSQL, durante esse tempo, tive um pouco de contato com o framework Laravel. Possuo cursos com Node.js, ReactJS, ReactNative e com Angular. Atualmente estou estudando reactJS, TypeScript e NodeJS.
+Estou cursando o 7° semestre de Sistemas de Informação, já atuei como programador na UESB, atividades de desenvolvimento, manutenção e suporte de sistemas, em PHP, com framework twig e com banco de dados MySQL e PostgreSQL, durante esse tempo, tive um pouco de contato com o framework Laravel. Possuo cursos com Node.js, ReactJS, ReactNative e com Angular. Atualmente estou estudando reactJS, TypeScript e NodeJS.
 
 ## Estou atualmente estudando:
 
