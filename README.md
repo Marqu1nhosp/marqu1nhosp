@@ -13,8 +13,9 @@ Estou cursando o 7° semestre de Sistemas de Informação, já atuei como progra
 <a href="https://instagram.com/marqu1nhosp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/marcos-porto-7135521b7/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/marqu1nhosp">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marqu1nhosp&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marqu1nhosp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  
+  <h3>GitHub Estatísticas</h3>
+
+Principais Linguagens   |    Minhas estatísticas 
+:-------------------------:|:-------------------------:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marqu1nhosp&layout=compact&langs_count=7&theme=dracula"/> | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marqu1nhosp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
