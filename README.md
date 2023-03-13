@@ -1,7 +1,7 @@
 # 💫 About Me:
 Estou cursando o 7° semestre de Sistemas de Informação, já atuei como programador na UESB, atividades de desenvolvimento, manutenção e suporte de sistemas, em PHP, com framework twig e com banco de dados MySQL e PostgreSQL, durante esse tempo, tive um pouco de contato com o framework Laravel. Possuo cursos com Node.js, ReactJS, ReactNative e com Angular. Atualmente estou estudando reactJS, TypeScript, NodeJS, TailwindCSS, NestJS, Fastify e Prisma ORM.
 
-## 📚 Estou atualmente estudando:
+## 📚 I'm currently studying:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="50" height="50"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50"/>
           
