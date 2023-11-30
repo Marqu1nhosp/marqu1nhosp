@@ -1,11 +1,11 @@
-# 💫 About Me:
-Estou cursando o 7° semestre de Sistemas de Informação, já atuei como programador na UESB, atividades de desenvolvimento, manutenção e suporte de sistemas, em PHP, com framework twig e com banco de dados MySQL e PostgreSQL, durante esse tempo, tive um pouco de contato com o framework Laravel. Possuo cursos com Node.js, ReactJS, ReactNative e com Angular. Atualmente estou estudando reactJS, TypeScript, NodeJS, TailwindCSS, NestJS, Fastify e Prisma ORM.
+# Olá, meu nome é Marcos Porto!
+Sou estudante de Sistemas de Informação, atualmente cursando o 8º semestre. Meu fascínio pelo universo da tecnologia começou quando ingressei no curso, e desde então, venho mergulhando cada vez mais fundo nesse campo dinâmico.
 
-## 📚 I'm currently studying:
+Estou em busca de uma oportunidade emocionante para expandir meu conhecimento e experiência na área de desenvolvimento Full-Stack. Meu objetivo é unir qualidade, eficácia e paixão pelo que faço, entregando os melhores resultados em cada projeto enquanto continuo a evoluir profissionalmente.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="50" height="50"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50"/>
+Dedico-me ativamente ao estudo das mais recentes tecnologias, buscando aprimorar minhas habilidades constantemente. Tenho expertise em ferramentas como ReactJS, TypeScript, NextJS, Tailwind CSS, Fastify, ExpressJS e NodeJS. Estou entusiasmado para aplicar esse conhecimento em projetos desafiadores e contribuir para o sucesso de equipes e organizações inovadoras.
 
-          
+Juntos, podemos construir o futuro da tecnologia. Vamos conectar ideias, codificar soluções e alcançar novos patamares! 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marqu1nhosp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marqu1nhosp) 
