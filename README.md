@@ -15,7 +15,6 @@ Juntos, podemos construir o futuro da tecnologia. Vamos conectar ideias, codific
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=marqu1nhosp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marqu1nhosp&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marqu1nhosp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
