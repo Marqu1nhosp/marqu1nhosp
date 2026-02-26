@@ -1,9 +1,9 @@
 # Olá, meu nome é Marcos Porto!
-Sou estudante de Sistemas de Informação, atualmente cursando o 8º semestre. Meu fascínio pelo universo da tecnologia começou quando ingressei no curso, e desde então, venho mergulhando cada vez mais fundo nesse campo dinâmico.
+Sou Bacharel em Sistemas de Informação e Desenvolvedor Full-Stack com foco na construção de aplicações web modernas e escaláveis.
 
-Estou em busca de uma oportunidade emocionante para expandir meu conhecimento e experiência na área de desenvolvimento Full-Stack. Meu objetivo é unir qualidade, eficácia e paixão pelo que faço, entregando os melhores resultados em cada projeto enquanto continuo a evoluir profissionalmente.
+Possuo experiência no desenvolvimento de interfaces com React.js e Next.js, utilizando Tailwind CSS e Styled Components para criação de interfaces performáticas, responsivas e com design consistente. No back-end, atuo com Node.js (Fastify e Express) no desenvolvimento de APIs REST bem estruturadas, além de estar aprofundando meus conhecimentos em Spring Boot.
 
-Dedico-me ativamente ao estudo das mais recentes tecnologias, buscando aprimorar minhas habilidades constantemente. Tenho expertise em ferramentas como ReactJS, TypeScript, NextJS, Tailwind CSS, Fastify, ExpressJS e NodeJS. Estou entusiasmado para aplicar esse conhecimento em projetos desafiadores e contribuir para o sucesso de equipes e organizações inovadoras. Além disso, atualmente estou focado no desenvolvimento de aplicações back-end com Spring Boot.
+Trabalho com TypeScript e bancos de dados relacionais como PostgreSQL e MySQL, aplicando boas práticas como organização em camadas, Clean Code e arquitetura orientada a APIs.
 
 Juntos, podemos construir o futuro da tecnologia. Vamos conectar ideias, codificar soluções e alcançar novos patamares! 🚀
 
